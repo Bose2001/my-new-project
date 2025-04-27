@@ -1,1 +1,1 @@
-This is my script-2 page
+i was changed an script2
